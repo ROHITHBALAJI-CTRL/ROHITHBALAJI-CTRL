@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ROHITHBALAJI-CTRL
+- 👋 Hi, I’m @ROHITHBALAJI
 - 👀 I’m interested in brainstorming ideas
 - 🌱 I’m currently learning data science 
 - 💞️ I’m looking to collaborate on data scientist and ingenious minds
